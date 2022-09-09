@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+NetCoreApps/MvcMovie/MvcMovie/bin
+NetCoreApps/MvcMovie/MvcMovie/obj
