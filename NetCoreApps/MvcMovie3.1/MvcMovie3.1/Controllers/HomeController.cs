@@ -1,9 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MvcMovie.Models;
+using MvcMovie3._1.Models;
+using System;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace MvcMovie.Controllers
+namespace MvcMovie3._1.Controllers
 {
 	public class HomeController : Controller
 	{
